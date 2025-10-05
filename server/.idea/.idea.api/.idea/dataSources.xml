@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:postgresql://localhost:5432/testdb</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="neondb@ep-blue-silence-adbo8e3e-pooler.c-2.us-east-1.aws.neon.tech" uuid="01fc4b67-6004-437b-b4d8-698a741d26b8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ep-blue-silence-adbo8e3e-pooler.c-2.us-east-1.aws.neon.tech:5432/neondb</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>

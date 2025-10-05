@@ -10,8 +10,6 @@
  * ---------------------------------------------------------------
  */
 
-import type {Book} from "./index.ts";
-
 export interface BookGetDto {
   /**
    * @minLength 1
@@ -24,7 +22,8 @@ export interface BookGetDto {
    * @max 10000
    */
   pages: number;
-  authors: string[];
+  /** @minItems 1 */
+  author: string[];
   /**
    * @minLength 1
    * @maxLength 30
@@ -85,7 +84,7 @@ export enum ContentType {
 }
 
 export class HttpClient<SecurityDataType = unknown> {
-  public baseUrl: string = "http://localhost:5028";
+  public baseUrl: string = "https://server-solitary-feather-2836.fly.dev";
   private securityData: SecurityDataType | null = null;
   private securityWorker?: ApiConfig<SecurityDataType>["securityWorker"];
   private abortControllers = new Map<CancelToken, AbortController>();
@@ -289,7 +288,7 @@ export class HttpClient<SecurityDataType = unknown> {
 /**
  * @title My Title
  * @version 1.0.0
- * @baseUrl http://localhost:5028
+ * @baseUrl https://server-solitary-feather-2836.fly.dev
  */
 export class Api<
   SecurityDataType extends unknown,
@@ -358,7 +357,7 @@ export class Api<
      * @name LibraryAddBook
      * @request POST:/library/addBook
      */
-    libraryAddBook: (data: Book, params: RequestParams = {}) =>
+    libraryAddBook: (data: BookGetDto, params: RequestParams = {}) =>
       this.request<File, any>({
         path: `/library/addBook`,
         method: "POST",

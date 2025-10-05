@@ -3,7 +3,7 @@ using DataAccess;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
-var allowedOrigin = builder.Configuration["FrontendUrl"] ?? "http://localhost:5173"; 
+var allowedOrigin = builder.Configuration["FrontendUrl"] ?? "https://react-misty-meadow-8814.fly.dev"; 
 const string AllowFrontendPolicy = "AllowFrontend";
 
 builder.Services.AddDbContext<LibraryDbContext>(options =>

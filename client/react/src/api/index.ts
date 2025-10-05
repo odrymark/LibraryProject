@@ -21,7 +21,7 @@ export type Author = {
 };
 
 export const defApi = new Api({
-    baseUrl: "http://localhost:5028"
+    baseUrl: "https://server-solitary-feather-2836.fly.dev"
 });
 
 export async function handleGetBooks(): Promise<Book[]> {
