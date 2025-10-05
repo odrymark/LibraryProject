@@ -17,7 +17,7 @@ export default function AddBook() {
                 id: 0,
                 title: title,
                 pages: Number(pages),
-                authors: authorsArray,
+                author: authorsArray,
                 genre: genre
             });
 
