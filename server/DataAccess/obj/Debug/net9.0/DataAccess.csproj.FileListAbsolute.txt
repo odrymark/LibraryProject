@@ -10,3 +10,4 @@ C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\DataAccess.dll
 C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
 C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\DataAccess.pdb
 C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
+C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\DataAccess.sourcelink.json

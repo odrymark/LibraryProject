@@ -86,3 +86,4 @@ C:\Users\odrym\csharp\project1\server\Api\bin\Debug\net9.0\DataAccess.dll
 C:\Users\odrym\csharp\project1\server\Api\bin\Debug\net9.0\DataAccess.pdb
 C:\Users\odrym\csharp\project1\server\Api\bin\Debug\net9.0\Npgsql.dll
 C:\Users\odrym\csharp\project1\server\Api\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\odrym\csharp\project1\server\Api\obj\Debug\net9.0\Api.sourcelink.json

@@ -1,0 +1,30 @@
+# flyctl launch added from .idea\.idea.api\.idea\.gitignore
+.idea\.idea.api\.idea\**\﻿# Default ignored files
+.idea\.idea.api\.idea\shelf
+.idea\.idea.api\.idea\workspace.xml
+# Rider ignored files
+.idea\.idea.api\.idea\contentModel.xml
+.idea\.idea.api\.idea\projectSettingsUpdater.xml
+.idea\.idea.api\.idea\modules.xml
+.idea\.idea.api\.idea\.idea.api.iml
+# Editor-based HTTP Client requests
+.idea\.idea.api\.idea\httpRequests
+# Datasource local storage ignored files
+.idea\.idea.api\.idea\dataSources
+.idea\.idea.api\.idea\dataSources.local.xml
+
+# flyctl launch added from Api\.idea\.idea.Api.dir\.idea\.gitignore
+Api\.idea\.idea.Api.dir\.idea\**\﻿# Default ignored files
+Api\.idea\.idea.Api.dir\.idea\shelf
+Api\.idea\.idea.Api.dir\.idea\workspace.xml
+# Rider ignored files
+Api\.idea\.idea.Api.dir\.idea\projectSettingsUpdater.xml
+Api\.idea\.idea.Api.dir\.idea\.idea.Api.iml
+Api\.idea\.idea.Api.dir\.idea\modules.xml
+Api\.idea\.idea.Api.dir\.idea\contentModel.xml
+# Editor-based HTTP Client requests
+Api\.idea\.idea.Api.dir\.idea\httpRequests
+# Datasource local storage ignored files
+Api\.idea\.idea.Api.dir\.idea\dataSources
+Api\.idea\.idea.Api.dir\.idea\dataSources.local.xml
+fly.toml
