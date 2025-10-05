@@ -1,0 +1,12 @@
+C:\Users\odrym\csharp\project1\server\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+C:\Users\odrym\csharp\project1\server\DataAccess\bin\Debug\net9.0\DataAccess.dll
+C:\Users\odrym\csharp\project1\server\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\DataAccess.dll
+C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+C:\Users\odrym\csharp\project1\server\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
